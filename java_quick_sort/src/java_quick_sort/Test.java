@@ -53,7 +53,8 @@ public class Test {
 		display(array);
 		quick_sort(array, 0, 9);
 		system.out.println("快速排序后：");
-		display(array);		
+		display(array);
+		system.out.println("实验结束");
 	}
 	
 }
