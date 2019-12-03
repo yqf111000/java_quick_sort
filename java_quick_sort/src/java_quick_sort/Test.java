@@ -52,6 +52,7 @@ public class Test {
 		int array[] = {45, 32, 72, 13, 89, 27, 38, 66, 51, 8};
 		display(array);
 		quick_sort(array, 0, 9);
+		system.out.println("快速排序后：");
 		display(array);		
 	}
 	
